@@ -30,6 +30,7 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
 .input{
     border: 1px solid #D9D9D9;
     border-radius: 2px;
@@ -115,7 +116,7 @@ body{
 
 .promo{
     margin-top: 40px;
-    background: #FFF1B8 url(/assets/img/new_pizza.png) no-repeat top 50px right -200px / 800px;
+    background: #FFF1B8 url(../img/new_pizza.png) no-repeat top 50px right -200px / 800px;
     border-radius: 10px;
     box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
     padding: 68px 70px;
